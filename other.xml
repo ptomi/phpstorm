@@ -1,0 +1,45 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="/usr/bin/node">
+      <version-cache version="8.10.0" last-modified="1533838802000" />
+    </local-interpreter>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ColorChooser.RecentColors" value="199-199-199-255" />
+    <property name="CommitChangeListDialog.DETAILS_SHOW_OPTION_" value="false" />
+    <property name="CommitChangeListDialog.DETAILS_SPLITTER_PROPORTION_2" value="0.6101231" />
+    <property name="CommitChangeListDialog.SPLITTER_PROPORTION_2" value="0.81900454" />
+    <property name="CommittedChanges.SplitterProportions.0" value="700" />
+    <property name="CommittedChanges.SplitterProportions.1" value="500" />
+    <property name="Copy.OpenInEditor" value="true" />
+    <property name="DbRenameDialog.previewExpanded" value="true" />
+    <property name="Default.savedEditorTheme" value="_@user_Default" />
+    <property name="ExpandBeforeRunStepsPanel" value="true" />
+    <property name="ExpandRunDashboardTypesPanel" value="false" />
+    <property name="FileTemplates.CurrentTab" value="Includes" />
+    <property name="FileTemplates.SelectedTemplate" value="Drupal Hook Implementation Doc Comment" />
+    <property name="LayoutCode.optimizeImports" value="false" />
+    <property name="LayoutCode.rearrangeEntriesMySQL" value="false" />
+    <property name="MemberChooser.showClasses" value="true" />
+    <property name="OpenOrAttachDialog.OpenMode" value="new" />
+    <property name="PhpStorm.InitialConfiguration" value="true" />
+    <property name="PluginConfigurable.selectionTab" value="1" />
+    <property name="SearchEveryWhereHistory" value="get&#10;=&#10;I&#10;$t&#10;Artikelnummer:" />
+    <property name="SettingsSearchHistory" value="line separator&#10;version&#10;xdebug&#10;direc&#10;direct" />
+    <property name="com.intellij.database.actions.DdlActions$DeleteProvider2$1.previewExpanded" value="true" />
+    <property name="com.intellij.database.view.ui.DeleteDialog.previewExpanded" value="true" />
+    <property name="disable.forced.soft.wraps.notification" value="true" />
+    <property name="evlsprt3.181" value="17" />
+    <property name="evlsprt3.182" value="13" />
+    <property name="evlsprt3.183" value="15" />
+    <property name="file.chooser.recent.files" value="/var/www/gitsources/dockyard.lh&#10;/var/www/gitsources/grafomano.lh&#10;/var/www/gitsources/grafomano.lh/grafomano&#10;/var/www/gitsources/magento2.lh&#10;/var/www/gitsources/steren3.lh&#10;/var/www/gitsources/orderswag.lh&#10;/var/www/gitsources/perencz-hu&#10;/var/www/gitsources/dockyard.lh/lib&#10;/var/www/gitsources/itegration.lh&#10;/var/www/gitsources/dockyard.lh/app&#10;/home/perencz/bam2_sales_order.csv&#10;/home/perencz&#10;/home/perencz/work/camera&#10;/usr/local/bin/scss&#10;/var/www/gitsources/emarsys/core&#10;/usr/local/bin/sass&#10;/var/www/gitsources/dr360.lh/marketplace&#10;/var/www/gitsources/bam2.lh/shop&#10;/media/part2/sandbox/Magicento1 3.1.3/magicento.jar&#10;/var/www/gitsources&#10;/var/www/gitsources/linkedretail.lh&#10;/media/part2/work/mirasvit&#10;/media/part2/work/coding_standards/vendor/bin/phpcs&#10;/media/part2/work/mirasvit/Giftr&#10;/media/part2/gitsource/linkedretail" />
+    <property name="file.gist.reindex.count" value="1329109" />
+    <property name="fileTypeChangedCounter" value="5" />
+    <property name="find.popup.splitter" value="0.49444443" />
+    <property name="lastTip" value="1" />
+    <property name="plugins.preselection.path" value="/media/part2/sandbox/Magicento1 3.1.3" />
+    <property name="settings.code.style.selected.tab.PHP" value="Code Conversion" />
+    <property name="settings.code.style.selected.tab.XML" value="Other" />
+    <property name="ts.lib.d.ts.version" value="3.2.1" />
+  </component>
+</application>
