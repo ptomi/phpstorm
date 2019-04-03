@@ -6,23 +6,14 @@
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
+    <mask>*.js</mask>
     <mask>*.as</mask>
     <mask>*.css</mask>
     <mask>*.mxml</mask>
-    <mask>Info.php</mask>
-    <mask>*.</mask>
-    <mask>*.html</mask>
-    <mask>*category*.php</mask>
-    <mask>*.lock</mask>
-    <mask>*.*</mask>
-    <mask>*00</mask>
-    <mask>*.csv</mask>
-    <mask>*.json</mask>
-    <mask>*.less</mask>
     <mask>*.php</mask>
-    <mask>*.scss</mask>
-    <mask>*.js</mask>
-    <mask>*.phtml</mask>
+    <mask>*data*</mask>
+    <mask>*.json</mask>
+    <mask>*.html</mask>
     <mask>*.xml</mask>
   </component>
 </application>
