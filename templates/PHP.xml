@@ -1,0 +1,9 @@
+<templateSet group="PHP">
+  <template name="mdump" value="$writer = new \Zend\Log\Writer\Stream(BP . '/var/log/$LOGNAME$.log');&#10;$logger = new \Zend\Log\Logger();&#10;$logger-&gt;addWriter($writer);&#10;$logger-&gt;info($LOGABLE$);" description="Magento Dumper" toReformat="true" toShortenFQNames="true">
+    <variable name="LOGNAME" expression="phpSuggestVariableName()" defaultValue="mdump" alwaysStopAt="true" />
+    <variable name="LOGABLE" expression="phpSuggestVariableName()" defaultValue="$item" alwaysStopAt="true" />
+    <context>
+      <option name="PHP" value="true" />
+    </context>
+  </template>
+</templateSet>
