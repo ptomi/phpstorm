@@ -4,5 +4,8 @@
   </component>
   <component name="PhpCodeSniffer">
     <phpcs_settings_migrated />
+    <phpcs_settings>
+      <PhpCSConfiguration standards="MEQP1;MEQP2;MySource;PEAR;PSR1;PSR2;Squiz;Zend" tool_path="/media/part2/work/coding_standards/vendor/bin/phpcs" />
+    </phpcs_settings>
   </component>
 </application>
