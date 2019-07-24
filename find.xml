@@ -1,8 +1,8 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="All Places" />
-    <option name="defaultScopeName" value="All Places" />
-    <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="customScope" value="File '.../app/code/Itegration/BAMCardChange/Controller/Ajax/Save.php [bam2]'" />
+    <option name="defaultScopeName" value="File '.../app/code/Itegration/BAMCardChange/Controller/Ajax/Save.php [bam2]'" />
+    <option name="SEARCH_SCOPE" value="File '.../app/code/Itegration/BAMCardChange/Controller/Ajax/Save.php [bam2]'" />
     <mask>*.properties</mask>
     <mask>*.jsp</mask>
     <mask>*.java</mask>
