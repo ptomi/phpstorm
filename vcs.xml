@@ -154,6 +154,10 @@
           <option name="url" value="https://tamasperencz@bitbucket.org/team-itegration/alternergy2.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tamasperencz@bitbucket.org/team-itegration/tsys2.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/gitsources" />
