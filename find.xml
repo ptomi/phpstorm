@@ -19,10 +19,10 @@
     <mask>*.less</mask>
     <mask>*.css</mask>
     <mask>*.csv</mask>
-    <mask>*.xml</mask>
     <mask>*.scss</mask>
     <mask>*.js</mask>
     <mask>*.php</mask>
     <mask>*.phtml</mask>
+    <mask>*.xml</mask>
   </component>
 </application>
