@@ -182,6 +182,10 @@
           <option name="url" value="https://tamasperencz@bitbucket.org/team-itegration/sandbox.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://tamasperencz@bitbucket.org/team-itegration/itegration_postapont.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="/var/www/gitsources" />
